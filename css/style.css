@@ -16,6 +16,10 @@ body {
   font-size: 26px;
 }
 
+.section-3 a {
+  color: white;
+}
+
 .justify-content-end li a {
   color: white;
 }
@@ -80,10 +84,6 @@ body {
   color: white;
   text-align: center;
   padding: 90px 90px;
-}
-
-.section-3 a {
-  color: white;
 }
 
 .section-3 a i {
