@@ -1,0 +1,27 @@
+{
+    "extends": [
+        "progressive-web-apps"
+    ]
+}
+
+{
+    "connector": {
+        "name": "connectorName"
+    },
+    "formatters": ["formatterName"],
+    "parsers": ["parserName"],
+    "hints": {
+        "hint1": "error",
+        "hint2": "warning",
+        "hint3": "off"
+    },
+    "hintsTimeout": 120000
+}
+
+{
+    "connector": {
+        "options": {
+            "waitFor": 60000
+        }
+    }
+}
